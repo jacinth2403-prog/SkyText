@@ -1,0 +1,7 @@
+sentence-transformers
+  faiss-cpu
+  streamlit
+  requests
+  google-generativeai
+  python-dotenv
+  scikit-learn
